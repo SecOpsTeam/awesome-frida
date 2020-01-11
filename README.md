@@ -4,7 +4,7 @@
 
 ### IT Security Mobile App to keep you updated..
 
-1. [Telegram Link ](https://attackio.app/) - The world of information security is now in your palm !!.
+1. [AttackIO App ](https://attackio.app/) - The world of information security is now in your palm !!.
 
 # Awesome Frida [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
